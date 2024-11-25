@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/classes_part2/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1732559544)
+
 # Classes and Properties in Python
 
 This Python module demonstrates the use of classes, properties, and validation techniques in object-oriented programming.
